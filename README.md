@@ -1,6 +1,6 @@
 ## Hello | Hallo | สวัสดีครับ
 
-I'm a 16-year-old, casual hobbist developer. General interests in astronomy, simulations, geopolitics. Languages I code in include Lua, VB and Python.
+I'm a 16-year-old, casual hobbyist developer. Interests in astronomy, simulations, geopolitics. Languages I code in include Lua, Visual-Basic and Python.
 
 *Featured projects:*
 - **[Orbit-Simulator](https://github.com/Modemsorn158/Orbit-Simulator)** > An orbital simulation based on real mechanics and constants
