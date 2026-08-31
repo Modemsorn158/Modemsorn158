@@ -4,6 +4,7 @@ I'm a 16-year-old, casual hobbyist developer. Interests in astronomy, simulation
 
 *Featured projects:*
 - **[Orbit-Simulator](https://github.com/Modemsorn158/Orbit-Simulator)** > An orbital simulation based on real mechanics and constants
+- **[Number-Machine](https://github.com/Modemsorn158/Number-Machine)** > A generator of irrational numbers and series of numbers
 - **[FunBox](https://github.com/Modemsorn158/Funbox)** > A joke-focused piece of Python code
 
 *Archived projects:*
