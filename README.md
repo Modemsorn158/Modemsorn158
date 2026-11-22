@@ -6,6 +6,9 @@ I'm a 16-year-old, casual hobbyist developer. Interests in astronomy, simulation
 - **[Orbit-Simulator](https://github.com/Modemsorn158/Orbit-Simulator)** > An orbital simulation based on real mechanics and constants
 - **[GLENDA](https://github.com/Modemsorn158/GLENDA)** > An *AI assisted* research project on machine learning of image recognition for detecting pathological cases using the GLENDA v1.5 dataset
 - **[Number-Machine](https://github.com/Modemsorn158/Number-Machine)** > A generator of irrational numbers and series of numbers
+- **[ModemCE](https://github.com/Modemsorn158/ModemCE)** > An *AI assisted* chess engine development repository
+
+*Joke projects:*
 - **[FunBox](https://github.com/Modemsorn158/Funbox)** > A joke-focused piece of Python code
 
 *Archived projects:*
